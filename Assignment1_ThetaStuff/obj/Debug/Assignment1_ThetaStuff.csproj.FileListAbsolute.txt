@@ -1,0 +1,7 @@
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\bin\Debug\Assignment1_ThetaStuff.exe.config
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\bin\Debug\Assignment1_ThetaStuff.exe
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\bin\Debug\Assignment1_ThetaStuff.pdb
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\obj\Debug\Assignment1_ThetaStuff.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\obj\Debug\Assignment1_ThetaStuff.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\obj\Debug\Assignment1_ThetaStuff.exe
+C:\Users\Nick\source\repos\Assignment1_ThetaStuff\obj\Debug\Assignment1_ThetaStuff.pdb
